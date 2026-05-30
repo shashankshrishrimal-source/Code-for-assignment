@@ -19,3 +19,6 @@ reports/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Notebook backups
+notebooks/*backup*.ipynb
