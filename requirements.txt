@@ -1,7 +1,13 @@
-pandas
 numpy
-scipy
+pandas
 matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+pyarrow
+openpyxl
 jupyter
+notebook
 nbconvert
 ipykernel
