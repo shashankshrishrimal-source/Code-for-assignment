@@ -4,6 +4,14 @@ This repository contains a reproducible Jupyter notebook for a computational bio
 
 The goal is to start from raw plate-level MFI measurements and build a transparent workflow from quality control through normalization, hit calling, triage, secondary-screen QC, dose-response modeling framework, biomarker analysis, mechanism interpretation, and final repurposing prioritization.
 
+## Final Submission Files
+
+For review, open the static HTML report first:
+
+```text
+prism_repurposing_analysis_report.html
+```
+
 ## Repository Structure
 
 ```text
